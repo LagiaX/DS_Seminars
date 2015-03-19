@@ -3,10 +3,10 @@ In this repository you can find the assignments and works realized in the semina
 from University of Cádiz.
 
 1) Song of beer.
-    In this program, all the verses of the popular song is screen-printed.
+    In this program, all the verses of the popular song are screen-printed.
 
 2) Working with Pokemon.
-    In this program, we look for the longest word chain possible, concatenating words which its last character
+    In this program, we look for the longest word chain possible, concatenating words which their last character
     equals to the first of the next word.
     
     -----------------------------------------------------------------------------------------
