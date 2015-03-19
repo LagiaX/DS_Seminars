@@ -9,7 +9,7 @@ from University of Cádiz.
     In this program, we look for the longest word chain possible, concatenating words which its last character
     equals to the first of the next word.
     
-    -------------------------------------------------------------------------------------------------------
+    -----------------------------------------------------------------------------------------
     
 En este repositorio se pueden encontrar los trabajos realizados en los seminarios de la asignatura de 
 Sistemas Distribuidos de la Universidad de Cádiz.
