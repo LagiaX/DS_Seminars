@@ -1,6 +1,6 @@
 # python1
 In this repository you can find the assignments and works realized in the seminars of the subject Distributed Systems
-from University of Cadiz.
+from University of Cádiz.
 
 1) Song of beer.
     In this program, all the verses of the popular song is screen-printed.
