@@ -1,4 +1,4 @@
-# python1
+# Distributed Systems - Seminars
 In this repository you can find the assignments and works realized in the seminars of the subject Distributed Systems
 from University of Cádiz.
 
