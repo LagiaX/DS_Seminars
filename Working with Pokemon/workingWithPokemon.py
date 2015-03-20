@@ -1,6 +1,6 @@
 #Funcion recursiva que cicla para encontrar el primer nombre el cual 
 #el ultimo caracter de pokemon es el mismo que su primer caracter.
-def recursiva():
+def shackleFinder():
 
     found=False
 
@@ -11,7 +11,6 @@ def recursiva():
                 
                     tempList.append(pokeShackle)
                     found=True
-                    recursiva()
     return
 
 ##BEGIN MAIN##
@@ -40,7 +39,7 @@ for pokemon in pokedex:
     tempList=[]
     tempList.append(pokemon)
 
-    recursiva()
+    shackleFinder()
 
     #Si la secuencia actual es mas larga que la que tenemos por solucion...
     if( len(solution) < len(tempList) ):
